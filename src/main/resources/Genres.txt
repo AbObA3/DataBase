@@ -1,0 +1,12 @@
+Blues
+Country
+Electronic
+Contemporary folk
+Hip hop
+Jazz
+Pop
+R&B
+Soul
+Rock
+Metal
+Punk
